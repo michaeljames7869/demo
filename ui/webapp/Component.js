@@ -3,7 +3,7 @@ sap.ui.define([
 	"sap/ui/Device",
 	"sapcp/tutorial/cf/ui/model/models"
 ], function (UIComponent, Device, models) {
-	"use strict";
+	"use strict"; 
 
 	return UIComponent.extend("sapcp.tutorial.cf.ui.Component", {
 
