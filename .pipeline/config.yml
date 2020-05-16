@@ -1,0 +1,4 @@
+steps:
+  githubTokenCredentialsId: "33656eca1f6094d8d5aa874946efc6229ecdade8"
+  script: this
+  sonarTokenCredentialsId: "d640179f8e3c3bfc44d9db67c332ad85216ea3db"	
