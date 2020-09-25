@@ -2,18 +2,7 @@ ID: tutorial
 _schema-version: '2.1'
 version: 0.0.1
 
-modules:
- - name: ui
-   type: html5
-   path: ui
-   parameters:
-      disk-quota: 1024M
-      memory: 1024M
-   build-parameters:
-      builder: grunt
-   requires:
-    - name: uaa_tutorial
-    - name: dest_tutorial
+
 
 resources:
  - name: uaa_tutorial
